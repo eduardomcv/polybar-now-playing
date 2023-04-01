@@ -4,13 +4,6 @@ Script for polybar to display and control media(not only Spotify) using DBus
 Python script to display and control current playing media. Includes a way to switch between players.
 Scrolling text used for metadata(title, artist, album, etc.) and playback button based on [spotify-polybar](https://github.com/PrayagS/polybar-spotify) and [zscroll](https://github.com/noctuid/zscroll).
 
-#### Demo:
-![demo](demo.gif)
-
-![demo](demo2.gif)
-
-![screenshot](screenshot.png)
-
 ### Dependencies
 
 - [python3](https://www.python.org/downloads/): Required to run the script
